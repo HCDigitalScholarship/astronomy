@@ -1,0 +1,124 @@
+{
+    "title": {
+        "media": {
+          "url": "compiled/img/130106Strawbridge.jpg",
+          "caption": "The Strawbridge Observatory at Haverford College, January 2013.",
+          "credit": "&copy;<a href='http://dhayton.haverford.edu/blog/2013/01/10/strawbridge-observatory/' style='color:#999'>Darin Hayton</a>"
+        },
+        "text": {
+          "headline": "Timeline of Haverford Observatory",
+          "text": "<p></p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "compiled/img/SundialMarker.jpg",
+          "caption": "The Sundial Marker for John Gummere&apos;s Observatory.",
+          "credit": "&copy;Haverford College"
+        },
+        "start_date": {
+          "month": "1",
+          "day": "30",
+          "year": "1839"
+        },
+        "text": {
+          "headline": "John Gummere's Original Observatory",
+          "text": "<p>The original observatory was proposed on Jan. 30, 1839. Its date of completion is unknown. Described as &quot;a wooden house—a little box, some fifteen feet square and as many high, holding a two-foot transit—was then the nucleus of the best appointed observatory in Pennsylvania&quot; </p><p>Hugh Vail described the observatory in his memoir: &quot;[A] small building about ten feet square that stood a little southeast of the present Alumna Hall. This had been John Gummere’s observatory; but contained only an astronomical clock, and a small transit instrument mounted on a granite pier. These with a small portable telescope, and a sextant comprised the astronomical outfit belonging to Haverford.&quot;</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "compiled/img/HCHC_1857_ObsDescription_Transit_Circle-side.jpg",
+          "caption": "A sketch of the astronomical transit that led to the birth of Strawbridge observatory, in a information phamplet about the observatory, 1857.",
+          "credit": "&copy;Quaker & Special Collections, Haverford College"
+        },
+        "start_date": {
+          "year": "1852"
+        },
+        "end_date":{
+            "year":"1853"
+        },
+        "text": {
+          "headline": "Toward Strawbridge Observatory",
+          "text": "Strawbridge Observatory was built during 1952-1953. Hugh Vail, a professor of mathematics and natural philosophy at Haverford College, drove the initiative. Around 1851 or 1852, William Young offered to loan an astronomical transit to Vail if he would be at the expanse of mounting the transit. After consultation with the Managers of the College, the offer was accepted and the piers were ordered. Vail recalls these in his memoir as &quot;great acquisition and initial move towards getting a real observatory.&quot; Because the transit was out of proportion with all other instruments at the college, Hugh Vail proposed the plan to acquire an equatorially mounted telescope. The Managers initially responded that there was no money to pay for such an instrument or for a building to put it in. A subscription was therefore started to raise the money, and in about six months Thomas Kimber Jr. was appointed by the Managers to join Vail in making a contract with Henry Fitz for one of his largest telescopes."
+        }
+      },
+      {
+        "media": {
+          "url": "compiled/img/HCHC_1857_ObsDescription_Ground_Plan.jpg",
+          "caption": "A sketch of the ground plan for the new observatory in a phamplet about the observatory, 1857.",
+          "credit": "&copy;Quaker & Special Collections, Haverford College"
+        },
+        "start_date": {
+          "year": "1852"
+        },
+        "end_date":{
+            "year":"1853"
+        }, 
+        "text": {
+          "headline": "Construction of Strawbridge Observatory",
+          "text": "<p>The first site selected for the new observatory was that of John Gummere’s observatory. But soon Hugh Vail became convinced that it would be too much surrounded by trees and that the house would house and woods would interfere with some observations. His final decision was to locate the observatory off the college ground. While he was staking out the foundations, and making the lines due north and south, and east and west, the neighbors were greatly puzzled to know with what he was squaring it, as it did not square with either the college or the road. To this Vail simply replied: &quot;with the earth.&quot;</p><p>When construction of Strawbridge was completed, all the instruments from the small building were removed to the new observatory, and the building itself was converted into a paint shop. The granite pier - the support of John Gummere’s transit - was left lying for a long time on the ground, where it had stood. Later it was replanted in its original site and a dial, carefully computed to the latitude of Haverford, was placed on it. However, this stone, after having been removed to the front of the old college building, has since been replaced and duly marked as one of the historical monuments of the school.</p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/HCHC_1857_ObsDescription_equitorial_telescope.jpg" ,
+          "caption": "A sketch of the new telescope in a phamplet about the observatory, 1857.",
+          "credit": "&copy;Quaker & Special Collections, Haverford College"
+        },
+        "start_date": {
+          "year": "1852"
+        },
+        "end_date":{
+            "year":"1853"
+        },
+        "text": {
+          "headline": "Completion of Strawbridge Observatory",
+          "text": "<p>The new observatory included an equatorial telescope, a Meridian Transit circle made by William J. Young of Philadelphia, an 18 inch transit instrument, by Dollond, mounted in the Prime Vertical, a sidereal clock, and Bond’s ingenious and beautiful &quot;Spring Governor.&quot; Henry Fitz made the telescope, which has 8 ¼ aperture, focal length 11ft., and was furnished with eye-pieces, varying in power from 60-900 times. The total cost was said to be $1,950.</p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/HCHC_Photos_B68_DatedObs_1884_Samuel_Alsop_at_Obs.jpg" ,
+          "caption": "Strawbridge Observatory before the modifications, Prof. Samuel Alsop of Astronomy was standing at the observatory.",
+          "credit": "&copy;Quaker & Special Collections, Haverford College"
+        },
+        "start_date": {
+          "year": "1883"
+        },
+        "text": {
+          "headline": "Strawbridge Modifications",
+          "text": "The modifications to Strawbridge Observatory was driven mainly by Isaac Sharpless, professor of Mathematics and Astronomy at the College. In a Board of Managers Minutes in April 1883, the Executive Committee reported that the Professor of Astronomy having for some time felt the need of improved facilities for his Observatory work. They concluded to procure a 10 inch refracting telescope, of first class make, with the needed equipment, provided the necessary funds, estimated at $4000, could be raised by voluntary contributions. They, also, reported that the sum of $4075 had been promised for the purpose and that it was their intention to order the instrument so soon as Prof. Sharpless decides as to the maker and some other details. The Board approved the action…provided the funds of the Corporation are not called upon for any part of the Expense.</p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/HCHC_1884_ObsPamphlet_pg0_photo1.jpg" ,
+          "caption": "The Equitorial Telescope made by Alvan Clark + Sons, in an observatory pamphlet, 1884.",
+          "credit": "&copy;Quaker & Special Collections, Haverford College"
+        },
+        "start_date": {
+          "year": "1883"
+        },
+        "text": {
+          "headline": "Strawbridge Modifications - New Telescope",
+          "text": "<p>Soon enough, a contract was made with Alvan Clark + Sons, of Cambridge Port, Mass. for the new 10 inch telescope. The instrument was promised on or before November 1st 1883. The contract reads the following: &quot;We hereby agree to make for Haverford College Observatory a 10 inch achromatic object glass with mounting to correspond. The lens will be made of the best material procurable and of best possible shape. The mounting will be similar in general plan to that of the West Point Telescope and of proportionate size. Omitting micrometer, eyepieces, regulator for clock and apparatus for reading the circles from the eye end. The workmanship will all be first class. The charge will be $3800. to be paid when the telescope is mounted and is pronounced satisfactory by Prof. Sharpless.&quot;</p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/HCHC_1884_ObsPamphlet_pg0_photo2.jpg" ,
+          "caption": "Strawbridge Observatory after the addition of a new building, in an observatory pamphlet, 1884.",
+          "credit": "&copy;Quaker & Special Collections, Haverford College"
+        },
+        "start_date": {
+          "year": "1883"
+        },
+        "text": {
+          "headline": "Strawbridge Modifications - New Building",
+          "text": "<p>The modifications also included an additional observatory building intended to house the new 10 inch refractor. This building, adjoining the Observatory built in 1852, was connected to it by covered passage. Total cost of the observatory was  said to be $2332.69, and the total cost for the telescope was $3915. Other additions to the observatory included a spectroscope, from Grubb, of Dublin, at the cost of $370, a helioscope, from Merz, of Munich, which cost $50, and various eye-pieces, observing-chairs, etc. totaling about $50. The spectroscope afforded the means of analyzing the light from the heavenly bodies, so as to ascertain their structure and composition. The helioscope allowed for the glare of the sunlight to be diminished indefinitely by polarization and the details of its surface to be brought out.</p>"
+        }
+      }
+    ]
+}

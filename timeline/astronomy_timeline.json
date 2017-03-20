@@ -1,0 +1,194 @@
+{
+    "title": {
+        "media": {
+          "url": "compiled/img/VirtualAstro-Stargazing-Graphic.jpg",
+          "caption": "",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Astronomy Timeline",
+          "text": "<p></p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "compiled/img/5-planets.jpg",
+          "caption": "Since late January, and through mid-February, 5 bright planets are visible at once in the predawn sky. This image is from February 8, 2016 in Tucson, Arizona.",
+          "credit": "&copy;Eliot Herman"
+        },
+        "start_date": {
+          "year": "0"
+        }, 
+          "end_date":{
+            "year":"1600"
+        },
+        "text": {
+          "headline": "Observable Planets before the Invention of Telescope",
+          "text": "<p>Before the Invention of the Telescope, Mercury, Venus, Sun, Mars, Jupiter, Saturn are all visible to the naked eye (in the order in which the order in which they appear from Earth).</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "compiled/img/Lipperhey_portrait.jpg",
+          "caption": "Lipperhey portrait",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1608"
+        },
+        "text": {
+          "headline": "Invention of the Telescope",
+          "text": "<p>Hans Lippershey, a German-Dutch spectacle-maker, is commonly associated with the invention of the telescope, although it is unclear if he was the first to build one.</p><p>There are many stories as to how Lippershey came by his invention. One version has Lippershey observing two children playing with lenses in his shop and commenting how they could make a far away weather-vane seem closer when looking at it through two lenses. Other stories have Lippershey's apprentice coming up with the idea or have Lippershey copying someone else&apos;s discovery. Lippershey's original instrument consisted of either two convex lenses with an inverted image or a convex objective and a concave eyepiece lens so it would have an upright image. This &quot;Dutch perspective glass&quot; (the name &quot;telescope&quot; would not be coined until three years later by Giovanni Demisiani) had a three-times (or 3X) magnification.</p><p>The lunar crater Lippershey, the minor planet 31338 Lipperhey, and the exoplanet Lipperhey are named after him.</p>"
+        }
+      },
+        {
+        "media": {
+          "url": "compiled/img/Kepler_astronomia_nova.jpg",
+          "caption": "Page 132 of Astronomia Nova contains a discussion and comparison of planetary motion according to the models derived by Ptolemy, Copernicus, and Brahe.",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1609"
+        }, 
+        "text": {
+          "headline": "Kepler’s “New Astronomy”",
+          "text": "<p>The <i>Astronomia nova</i> is a book, published in 1609, that contains the results of the astronomer Johannes Kepler's ten-year-long investigation of the motion of Mars. One of the greatest books on astronomy, the <i>Astronomia nova</i> provided strong arguments for heliocentrism and contributed valuable insight into the movement of the planets, including the first mention of their elliptical path and the change of their movement to the movement of free floating bodies as opposed to objects on rotating spheres. It is recognized as one of the most important works of the Scientific Revolution. Kepler demonstrates that the Tychonic, Ptolemaic, and Copernican systems are indistinguishable on the basis of observations alone. The three models predict the same positions for the planets in the near term, although they diverge from historical observations, and fail in their ability to predict future planetary positions by a small, though absolutely measurable amount. The <i>Astronomia nova</i> records the discovery of the first two of the three principles known today as Kepler's laws of planetary motion, which are: 1) That the planets move in elliptical orbits with the sun at one focus. 2) That the speed of the planet changes at each moment such that the time between two positions is always proportional to the area swept out on the orbit between these positions.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "compiled/img/Sidereus_nuncius.jpg",
+          "caption": "Title page of Sidereus nuncius, 1610, by Galileo Galilei",
+          "credit": "&copy;Houghton Library at Harvard University"
+        },
+        "start_date": {
+          "day":"13",
+          "month":"3",
+          "year": "1610"
+        },
+        "text": {
+          "headline": "Galileo’s Starry Messenger",
+          "text": "<p>The <i>Starry Messenger</i> (<i>Sidereus Nuncius</i> in Latin) is a short astronomical treatise published by Galileo Galilei on March 13, 1610. It was the first published scientific work based on observations made through a telescope, and it contains the results of Galileo's early observations of the imperfect and mountainous Moon, the hundreds of stars that were unable to be seen in either the Milky Way or certain constellations with the naked eye, and the Medicean Stars that appeared to be circling Jupiter. Galileo was one of the first to use the telescope to view and describe celestial bodies. One of Galileo’s first &quot;Optical Canons,&quot; as he referred to them, had 8-10 enlargements (8x to 10x magnification) and was made out of lenses that he had ground himself. This increased to the 20-enlargement telescope that he used to make the observations in <i>Sidereus Nuncius</i>.</p>"
+        }
+      },
+        {
+        "media": {
+          "url": "compiled/img/micrometer.jpg",
+          "caption": "Gascoigne's Micrometer as drawn by Robert Hooke",
+          "credit": "&copy;<i>Diameters of Planets to a Great Exactness, &c. as It Was Promised, Numb. 25</i>. In: <i>Philosophical Transactions</i>."
+        },
+        "start_date": {
+          "year": "1639"
+        }, 
+        "text": {
+          "headline": "Invention of the Micrometer",
+          "text": "<p>A filar micrometer is a specialized eyepiece used in astronomical telescopes for astrometry measurements. The first ever micrometric screw was invented by William Gascoigne in the 17th century, as an enhancement of the vernier; it was used in a telescope to measure angular distances between stars and the relative sizes of celestial objects. In the late 1630s, Gascoigne, was working on a Keplerian optical arrangement when a thread from a spider’s web happened to become caught at exactly the combined optical focal points of the two lenses. When he looked through the arrangement Gascoigne saw the web bright and sharp within the field of view. He realized that he could more accurately point the telescope using the line as a guide, and went on to invent the telescopic sight by placing crossed wires at the focal point to define the centre of the field of view. He then added this arrangement to a sextant modelled on the instrument used by Tycho Brahe, although Tycho’s sextant was only a naked-eye instrument. This invention was later taken up and improved by the scientist and astronomer Richard Towneley.</p>"
+        }
+      },
+        {
+        "media": {
+          "url": "compiled/img/NewtonsTelescopeReplica.jpg",
+          "caption": "Replica of Newton's second Reflecting telescope that he presented to the Royal Society in 1672",
+          "credit": "&copy;Andrew Dunn"
+        },
+        "start_date": {
+          "year": "1672"
+        }, 
+        "text": {
+          "headline": "Newton's Reflector",
+          "text": "<p>Issac Newton built the first practical reflecting telescope and developed a theory of colour based on the observation that a prism decomposes white light into the many colours of the visible spectrum. From his work, he concluded that the lens of any refracting telescope would suffer from the dispersion of light into colours (chromatic aberration). As a proof of the concept, he constructed a telescope using reflective mirrors instead of lenses as the objective to bypass that problem. Newton ground his own mirrors out of a custom composition of highly reflective speculum metal, using Newton's rings to judge the quality of the optics for his telescopes. In late 1668 he was able to produce this first reflecting telescope.</p>"
+        }
+      },
+        {
+        "media": {
+          "url": "compiled/img/Thinktank_Birmingham.jpg",
+          "caption": "Brass telescope made by Short, now in the collection of Thinktank, Birmingham Science Museum.",
+          "credit": "&copy;Birmingham Museums Trust"
+        },
+        "start_date": {
+          "year": "1736"
+        }, 
+        "text": {
+          "headline": "James Short Invents the Parabolic Mirror",
+          "text": "<p>The Scottish Instrument maker James Short invents the first parabolic and elliptic, distortionless mirror ideal for reflecting telescopes in 1736. In Short's earlier telescopes the specula were made of glass, as suggested by James Gregory, but later he used metallic specula only, and thus succeeded in giving them true parabolic and elliptic shapes. Short accomplished this in a very practical manner: Since parallel rays nearer the center of a spherical mirror overshoot the marginal rays coming from the edge of the mirror, why not just deepen the center to bring all the rays of light to the same point of focus? James Short built over 1,360 telescopes. All had speculum mirrors.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "compiled/img/Telescope_by_John_Dollond_in_VULibrary.jpg",
+          "caption": "4 inch refracting telescope by John Dollond (1706-1761) (tube) and J. Ramsted (mount). London, 18th century. White Hall of the Vilnius University Library",
+          "credit": "&copy;Vilnius University Library"
+        },
+        "start_date": {
+          "year": "1758"
+        },
+        "text": {
+          "headline": "John Dollond and the Achromatic Lens",
+          "text": "<p>From the time of the invention of the first refracting telescopes it was generally supposed that chromatic errors seen in lenses simply arose from errors in the spherical figure of their surfaces. Opticians tried to construct lenses of varying forms of curvature to correct these errors. Isaac Newton discovered in 1666 that chromatic colors actually arose from the un-even refraction of light as it passed through the glass medium. This led opticians to experiment with lenses constructed of more than one type of glass in an attempt to canceling the errors produced by each type of glass. It was hoped that this would create an &quot;achromatic lens&quot;; a lens that would focus all colors to a single point, and produce instruments of much shorter focal length.</p><p>The achromatic lens, which greatly reduced color aberrations in objective lenses and allowed for shorter and more functional telescopes, first appeared in a 1733 telescope made by Chester Moore Hall, who did not publicize it. John Dollond learned of Hall's invention and began producing telescopes using it in commercial quantities, starting in 1758.</p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/uranus_true_and_false.jpg" ,
+          "caption": "Voyager 2 images showing one true color (left), the other false color (right) of Uranus taken by the narrow-angle camera and returned on 17 January 1986.",
+          "credit": "&copy;<a href='http://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-uranus.html' style='color:#999'>NASA</a>"
+        },
+        "start_date": {
+          "day":"31",
+          "month":"3",
+          "year": "1781"
+        },
+        "text": {
+          "headline": "William Herschel Discovers Uranus",
+          "text": "<p>British astronomer William Herschel was performing a survey of all the stars that were of magnitude 8 – in other words, too faint to see with the eye – or brighter. That’s when he noticed an object that moved in front of the star background over time, clearly demonstrating it was closer to us than the distant stars. At first he thought he had found a comet, but later realized this object was a new planet in orbit around our sun – the first discovered since ancient times.</p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/Neptune_and_Triton.jpg" ,
+          "caption": "Dramatic view of the crescents of Neptune and Triton was acquired by Voyager 2.",
+          "credit": "&copy;<a href='http://solarsystem.nasa.gov/galleries/neptune-and-triton' style='color:#999'>NASA</a>"
+        },
+        "start_date": {
+          "day":"18",
+          "month":"9",
+          "year": "1846"
+        },
+        "text": {
+          "headline": "Neptune Discovered",
+          "text": "<p>By 1847 the planet Uranus had completed nearly one full orbit since its discovery by William Herschel in 1781, and astronomers had detected a series of irregularities in its path that could not be entirely explained by Newton's law of gravitation. These irregularities could, however, be resolved if the gravity of a farther, unknown planet were disturbing its path around the Sun. A French mathematician, Urbain Joseph Le Verrier, proposed the position and mass of another as yet unknown planet that could cause the observed changes to Uranus' orbit. After being ignored by French astronomers, Le Verrier sent his predictions to Johann Gottfried Galle at the Berlin Observatory, who found Neptune on his first night of searching in 1846.</p> <p>Seventeen days later, its largest moon, Triton, was also discovered.</p>"
+        }
+      },
+        {
+        "media": {
+          "url": "compiled/img/Cooke.png",
+          "caption": "The Cooke Triplet",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1893"
+        }, 
+        "text": {
+          "headline": "The Cooke Triplet",
+          "text": "<p>H. Dennis Taylor, optical manager of T. Cooke & Sons of York, makers of astronomical telescopes, designed and patented the revolutionary, and now famous, triplet design. This lens eliminated the optical distortion at the outer edge of lenses. The Cooke Triplet was a significant improvement of the Dolland triplet of more than a century earlier. The Cooke triplet, seen at left, comprises a negative flint glass element in the centre with a crown glass element on each side. In this design, the sum of all the curvatures times indices of refraction can be zero, so that the field of focus is flat. </p>"
+        }
+      },
+      {
+        "media": {
+          "url":"compiled/img/Pluto_discovery_plates.jpg" ,
+          "caption": "Original plates from Clyde Tombaugh's discovery of Pluto in Lowell Observatory Archive.",
+          "credit": "&copy;Lowell Observatory"
+        },
+        "start_date": {
+          "day":"18",
+          "month":"2",
+          "year": "1930"
+        },
+        "text": {
+          "headline": "Pluto Discovered",
+          "text": "<p>The existence of an unknown ninth planet was first proposed by Percival Lowell, who theorized that wobbles in the orbits of Uranus and Neptune were caused by the gravitational pull of an unknown planetary body. Lowell calculated the approximate location of the hypothesized ninth planet and searched for more than a decade without success. However, in 1929, using the calculations of Powell and W.H. Pickering as a guide, the search for Pluto was resumed at the Lowell Observatory in Arizona. The telescope at the observatory was equipped with a camera that would take two photographs of the sky on different days. A device known as a blink compactor rapidly flipped back and forth between the two photographs. Stars and galaxies essentially remained unmoving in the images, but anything closer could be visually identified by its motion across the sky.</p><p>On February 18, 1930, Clyde William Tombaugh noticed movement across the field of a pair of images taken a month beforehand. The discovery of the tiny, distant planet was announced on March 13. Eleven-year old Venetia Burney of England suggested the name Pluto, because the dark, distant planet resembled the abode of the Greek god of the underworld.</p><p>Pluto endured as a planet for over 70 years. In 2006, however, the International Astronomical Union reclassified Pluto as a dwarf planet.</p>"
+        }
+      }
+    ]
+}
