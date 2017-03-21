@@ -1621,13 +1621,14 @@
 }
 
 .inline-pic img{
-    width: 100%;
+    width: 90%;
 }
 
 .inline-pic figcaption{
     font-size:0.75em;
     line-height:1.25em;
-    color:#ddd;
+    color:#000;
+    padding-bottom: 2em;
 }
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1645,7 +1646,7 @@
 		}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2.5em;
 		letter-spacing: 0.1em;
 	}
 
@@ -1779,7 +1780,8 @@
 
 			.image.featured img {
 				display: block;
-				width: 100%;
+				width: 70%;
+				margin: auto;
 			}
         
         #copyright {
@@ -2053,7 +2055,7 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			color: #fff !important;
+			color: #000 !important;
 		}
 
 			input[type="button"].special:hover,
@@ -2133,8 +2135,8 @@
 		}
 
 		.wrapper.style4 {
-			background: #555;
-			color: #fff;
+			background: #D3D3D3;
+			color: #000;
 			padding: 4em;
 		}
 
@@ -2469,11 +2471,9 @@ iframe {
 
 	#main {
         
-        background:url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/light-bl.svg"), url("images/light-br.svg"),black;
-		background-position:top left, top right, bottom left, bottom right, center;
-		background-repeat:no-repeat;
-		background-size: 25em;
-		padding: 7em 0;
+
+		background-color: black;
+		padding: 2em 0;
 	}
 
 		#main > :last-child {
@@ -2500,12 +2500,11 @@ iframe {
 
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #000;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"),  url("../../images/banner.jpg");
+		background-color: #D3D3D3;
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
-		color: #fff;
+		color: #000;
 		padding: 5em;
 		text-align: center;
 	}
@@ -2731,6 +2730,8 @@ iframe {
 			header.special {
 				margin-bottom: 4em;
 				padding-top: 5em;
+				background-color: rgba(0, 0, 0.3, 0.6);
+
 			}
 
 				header.special:before, header.special:after {
@@ -3081,6 +3082,7 @@ iframe {
 
 				header p {
 					text-align: center;
+					padding-bottom: 3 em;
 				}
 
 			footer.major {
@@ -3242,5 +3244,7 @@ iframe {
 				width: 50px;
 				height: 34px;
 			}
-
+			
+			/* transparent white box for titles */
+			
 	}
