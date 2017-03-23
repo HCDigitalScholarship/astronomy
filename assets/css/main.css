@@ -2206,7 +2206,7 @@ iframe {
 
 		#header h1 {
 			font-weight: 900;
-			margin: 0;
+			margin: 1;
 		}
 
 			#header h1 span {
@@ -2235,7 +2235,7 @@ iframe {
 					color: inherit;
 					display: inline-block;
 					line-height: 1em;
-					padding: 0.6em 0.75em;
+					padding: 0.6em 0em;
 					text-decoration: none;
 				}
 
@@ -2275,8 +2275,9 @@ iframe {
 				}
 
 				#header nav ul li.current > a {
-					font-weight: 900;
+					font-weight: 0;
 				}
+			
 
 		#header.reveal {
 			-moz-animation: reveal-header 0.5s;
@@ -2300,7 +2301,7 @@ iframe {
 
 			#header.alt nav {
 				right: 2.5em;
-				top: 1.75em;
+				top: 2.75em;
 			}
 
 				#header.alt nav ul li.active > a, #header.alt nav ul li:hover > a {
@@ -2471,9 +2472,8 @@ iframe {
 
 	#main {
         
-
-		background-color: black;
-		padding: 2em 0;
+		background-size: 25em;
+		padding: 7em 0;
 	}
 
 		#main > :last-child {
